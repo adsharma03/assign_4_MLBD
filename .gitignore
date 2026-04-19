@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Files
+/Users/admin/Desktop/Assign_4_MLBD/Clustering and PageRank.pdf
+
+# Folders
+/Users/admin/Desktop/Assign_4_MLBD/Q1- UCI Spam clustering
+/Users/admin/Desktop/Assign_4_MLBD/Q2- webSearch

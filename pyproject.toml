@@ -1,0 +1,12 @@
+[project]
+name = "assign-4-mlbd"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyter",
+    "numpy",
+    "pyspark==3.4.1",
+]
