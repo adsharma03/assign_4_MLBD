@@ -1,23 +1,26 @@
 # Python-generated files
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
 build/
 dist/
-wheels/
-*.egg-info
+*.egg-info/
 
 # Virtual environments
-.venv
-/Users/admin/Desktop/Assign_4_MLBD/uv.lock
+.venv/
+venv/
+ENV/
+uv.lock
 
-# Files
-/Users/admin/Desktop/Assign_4_MLBD/Clustering and PageRank.pdf
-/Users/admin/Desktop/Assign_4_MLBD/small.txt
-/Users/admin/Desktop/Assign_4_MLBD/whole.txt
+# Data Files (Ignore the large datasets)
+small.txt
+whole.txt
+*.pdf
 
+# Assignment Folders (If you want to keep them out of this specific repo)
+Q1- UCI Spam clustering/
+Q2- webSearch/
+webpages/
 
-
-# Folders
-/Users/admin/Desktop/Assign_4_MLBD/Q1- UCI Spam clustering
-/Users/admin/Desktop/Assign_4_MLBD/Q2- webSearch
-/Users/admin/Desktop/Assign_4_MLBD/webpages
+# OS-specific files
+.DS_Store
