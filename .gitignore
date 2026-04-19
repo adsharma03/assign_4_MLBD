@@ -24,3 +24,7 @@ webpages/
 
 # OS-specific files
 .DS_Store
+
+.python-version
+actions.txt
+main.py
