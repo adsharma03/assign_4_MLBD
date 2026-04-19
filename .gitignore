@@ -8,10 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+/Users/admin/Desktop/Assign_4_MLBD/uv.lock
 
 # Files
 /Users/admin/Desktop/Assign_4_MLBD/Clustering and PageRank.pdf
+/Users/admin/Desktop/Assign_4_MLBD/small.txt
+/Users/admin/Desktop/Assign_4_MLBD/whole.txt
+
+
 
 # Folders
 /Users/admin/Desktop/Assign_4_MLBD/Q1- UCI Spam clustering
 /Users/admin/Desktop/Assign_4_MLBD/Q2- webSearch
+/Users/admin/Desktop/Assign_4_MLBD/webpages
